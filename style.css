@@ -9,6 +9,11 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h2{
+  display: flex;
+  justify-content: center;
+}
+
 .container{
   background-color: salmon;
   width: 400px;
